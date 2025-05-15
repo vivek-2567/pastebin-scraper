@@ -58,6 +58,10 @@ python scrape.py
 
 4. The script will create or overwrite the file `keyword_matches.jsonl` in the current directory with the matched paste data.
 
+## Screenshots
+![Terminal Output](terminal_output.png)
+![jsonl_output](jsonl_output.png)
+
 ## Notes
 
 - The script respects rate limiting to avoid overwhelming Pastebin servers.
